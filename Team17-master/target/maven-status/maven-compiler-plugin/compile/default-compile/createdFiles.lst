@@ -1,0 +1,8 @@
+com\db\api\controller\ClientsController.class
+com\db\api\model\Client.class
+com\db\api\repository\UserRepository.class
+com\db\api\controller\TradeController.class
+com\db\api\controller\UserController.class
+com\db\api\model\User.class
+com\db\ApiApplication.class
+com\db\api\repository\ClientRepository.class
